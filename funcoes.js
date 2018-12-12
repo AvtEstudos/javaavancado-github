@@ -1,5 +1,6 @@
 function mostrar(){
-	alert('Mensagem Github');
+	alert('Mensagem Github atualizada');
+	alert('Só mais uma pra testar...');
 }
 
 var btn = document.getElementById("botao");
